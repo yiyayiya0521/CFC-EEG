@@ -1,5 +1,3 @@
-# CFC-EEG
-
 # Supplementary Material
 
 Supplementary file for the manuscript: Multiscale EEG Analysis of Cross-Frequency Coupling and Spatiotemporal Variability for Evaluating tDCS Effects in Stroke Patients.
